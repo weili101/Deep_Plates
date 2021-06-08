@@ -1,7 +1,7 @@
 # Physics-guided neural network framework for elastic plates
 
 
-## Example 1 - Uniaxial tension of rectangular plates under non-unfiormy distrubuted loading
+## Example 1 - Uniaxial tension of rectangular plates under non-unfiormly distrubuted loading
 
 
 
