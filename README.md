@@ -20,13 +20,18 @@ This repository contains codes for our published work on *Comput. Methods Appl. 
 The codes are shared in four folders corresponding to the four examples we presented in the paper, where you can find more details. A brief summary is provided as follows:
 
 ### 1. Uniaxial tension of rectangular plates under non-unfiormly distrubuted loading
+This example demonstrates how to solve a 2D plane stress tension problem with neural network. The loading condition and boundary conditions are illustrated as in the figure below.
 ![](Ex1%20-%20Uniaxial%20tension/Eqns.png)
+
+Physic informed neural networks with two different loss functions: PDE-based vs. Energy-based.
 ![](Ex1%20-%20Uniaxial%20tension/FEM.png)
 
 ### 2. Uniaxial tension of rectangular plates with centrol hole
+A more complex 2D case with central hole:
 ![](Ex2%20-%20Centrol-hole%20tension/Result.png)
 
 ### 3. Out-of-plane deflection of rectangular plates
+
 ![](Ex3%20-%20Plate%20deflection/Result.png)
 
 ### 4. Out-of-plane buckling of rectangular plates
