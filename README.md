@@ -20,10 +20,14 @@ This repository contains codes for our published work on *Comput. Methods Appl. 
 The codes are shared in four folders corresponding to the four examples we presented in the paper, where you can find more details. A brief summary is provided as follows:
 
 ### 1. Uniaxial tension of rectangular plates under non-unfiormly distrubuted loading
+![](Ex1%20-%20Uniaxial%20tension/Eqns.png)
+![](Ex1%20-%20Uniaxial%20tension/FEM.png)
 
 ### 2. Uniaxial tension of rectangular plates with centrol hole
+![](Ex2%20-%20Centrol-hole%20tension/Result.png)
 
 ### 3. Out-of-plane deflection of rectangular plates
+![](Ex3%20-%20Plate%20deflection/Result.png)
 
 ### 4. Out-of-plane buckling of rectangular plates
-
+![](Ex4%20-%20Plate%20buckling/Result.png)
